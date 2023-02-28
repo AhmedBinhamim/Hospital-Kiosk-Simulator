@@ -1,4 +1,4 @@
-# Hospital-Kiosk-Simulator
+# Hospital-Kiosk-Simulator Using FreeMat
 In this project we created a program to simulate the kiosks serving patients in a hospital
 
 The program displays a welcome message to the user and promotes him to enter the 
